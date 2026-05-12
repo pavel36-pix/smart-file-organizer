@@ -10,6 +10,16 @@ Desktop application bulit with Python.
 -python
 PyInstaller
 # Download
--Aviable on Gunroad
+-Aviable on Gunroad (https://adina90.gumroad.com/l/dsxpkz)
 # Screenshot
 ![screenshot](main-window.png)
+Tehnologies
+-Python
+PyInstaller
+Linux
+Windows Build
+PySide6
+Tkinter
+Markdown
+## Download
+[Download the app](https://adina90.gumroad.com/l/dsxpkz)
