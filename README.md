@@ -9,6 +9,8 @@ Desktop application bulit with Python.
 ## Bulit with
 -python
 PyInstaller
+## Preview
+![App Screenshot](main-window.png)
 # Download
 -Aviable on Gunroad (https://adina90.gumroad.com/l/dsxpkz)
 # Screenshot
