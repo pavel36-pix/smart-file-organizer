@@ -1,4 +1,4 @@
-# smart-file-organizer
+# Samart-file-organizer
 Python desktop app for automatic file organization
 Desktop application bulit with Python.
 ## Features
